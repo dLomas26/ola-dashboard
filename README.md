@@ -15,7 +15,7 @@ The OLA Dashboard is a Power BI solution designed to transform raw data into mea
 Below is a snapshot of the PowerBI dashboard:
 
 ![Dashboard Screenshot](Dashboard/Overall.png)
-![Dashboard Screenshot](Dashboard/VehicleTypes.png)
+![Dashboard Screenshot]([Dashboard/VehicleTypes.png](https://github.com/dLomas26/ola-dashboard/blob/main/Dashboard/Vehicle%20Types.png?raw=true))
 ![Dashboard Screenshot](Dashboard/Revenue.png)
 ![Dashboard Screenshot](Dashboard/Cancellation.png)
 ![Dashboard Screenshot](Dashboard/Ratings.png)
