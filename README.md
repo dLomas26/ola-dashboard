@@ -10,12 +10,28 @@ The OLA Dashboard is a Power BI solution designed to transform raw data into mea
 
 ---
 
+### Dashboard Preview
+
+Below is a snapshot of the PowerBI dashboard:
+
+![Dashboard Screenshot](Dashboard/Overall.png)
+![Dashboard Screenshot](Dashboard/VehicleTypes.png)
+![Dashboard Screenshot](Dashboard/Revenue.png)
+![Dashboard Screenshot](Dashboard/Cancellation.png)
+![Dashboard Screenshot](Dashboard/Ratings.png)
+
+---
+
 ### Key Features
 
 1.Interactive Visualizations: Charts, graphs, and tables that respond to user interactions
+
 2.Real-time Data Refresh: Connect to live data sources or scheduled refreshes
+
 3.Multi-page Reports: Organized by business function (Sales, Marketing, Operations)
+
 4.Drill-through Capabilities: Navigate from high-level metrics to detailed analysis
+
 5.Mobile Responsive: Adapts to different screen sizes
 
 ---
